@@ -3,7 +3,7 @@ Exploration of an open-source tool-chain to improve the preliminary design and a
 
 ## Project Content
 
-OpenFoilLab is a proof of concept software to design foils parametrically and automatically analyse their structure and hydrodynamics. 
+OpenFoilLab is a proof of concept software to design foils parametrically and automatically analyse their structure and hydrodynamic properties. 
 It uses Grasshopper for parametric design and existing open-source code to run the section, fluid and beam analyses. 
 
 This GitHub repository contains: 
