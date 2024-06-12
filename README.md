@@ -8,9 +8,9 @@ It uses Grasshopper for parametric design and existing open-source code to run t
 
 This GitHub repository contains: 
 - the Rhino/Grasshopper files used to generate the foil shape
-- 'workflow.png' which shows the current OpenFoilLab structure and workflow for the user
-- a comprehensive list of all the parameters required to for the full OpenFoilLab workflow
-- a UI folder which contains views of the front-end
+- 'workflow.png' the current OpenFoilLab structure and workflow for the user
+- 'parameters.xls' a comprehensive list of the parameters required throughout the OpenFoilLab workflow
+- 'UI' a UI folder which contains views of the front-end
 - other code and input/output files used throughout
 
 
